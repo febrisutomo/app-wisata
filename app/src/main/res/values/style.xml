@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearanceOverlay.RoundedBottomRight">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeBottomRight">32dp</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.Rounded50">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

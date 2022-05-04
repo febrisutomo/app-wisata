@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aplikasi Wisata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home</string>
+    <string name="search_fragment">Search</string>
+    <string name="bookmark_fragment">Bookmark</string>
+    <string name="account_fragment">Account</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum convallis orci, nec accumsan metus feugiat ut. Suspendisse ultricies sagittis diam et tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet turpis mauris. Quisque sed metus eget urna ornare vulputate. Nam eu eros vel diam tempor laoreet. Maecenas mattis urna ac ultrices dictum. Etiam orci leo, laoreet ut sem at, dignissim sollicitudin velit.  Sed pulvinar eget est nec rhoncus. Aliquam non elit nisl. Cras ultrices eu sapien aliquam sodales. Morbi tincidunt ut nibh et auctor. Ut luctus, mauris sed consectetur interdum, lectus ante efficitur risus, non luctus dui eros sed risus. In scelerisque leo quis orci auctor, sed rhoncus elit lobortis. Nulla sagittis bibendum nulla, rhoncus efficitur arcu vulputate et. Aliquam accumsan orci eu nunc suscipit, faucibus ultrices odio facilisis. Aenean a felis tortor. Sed eget varius purus, in semper diam. Vivamus ac sollicitudin turpis.  Vivamus imperdiet at nibh accumsan hendrerit. Sed gravida orci vel nunc blandit pulvinar. Phasellus scelerisque sapien porttitor eros congue suscipit. Mauris nulla dui, commodo rhoncus imperdiet eu, volutpat eu lorem. Aliquam ultricies ipsum eget urna fermentum mollis. Donec id ante hendrerit, varius orci id, ullamcorper dolor. Pellentesque dictum purus sed orci rhoncus, eget venenatis ex vulputate. Cras odio tortor, convallis non vulputate in, commodo eget justo. Praesent at blandit arcu, ut mattis mi. Donec gravida facilisis magna cursus porta. Vestibulum in turpis egestas, euismod dui non, efficitur felis. Nam ut elementum turpis, iaculis commodo dolor.  Nunc egestas blandit nisl ut gravida. Ut dapibus metus id lacus molestie viverra. Aenean sed augue et neque rhoncus egestas non a diam. Aliquam posuere iaculis tellus, quis porta augue suscipit at. Proin in mauris pharetra, tincidunt nisi in, gravida arcu. Vestibulum molestie mauris urna, eu ullamcorper est ultricies nec. Suspendisse sed odio tortor. Nulla sit amet urna quis ante lobortis luctus non eu nisl. Nunc fringilla tortor id leo congue pretium..</string>
+</resources>

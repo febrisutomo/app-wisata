@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/bottom_dark.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/btn_bg_selector.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/btn_style.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/et_style.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_account.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_addfavorite.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_bookmark.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_bookmark_white.xml" value="0.109375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_bookmarks_outline.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_favorite.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_favorite_filled.xml" value="0.109375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_home.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_icon_splash.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/ic_location.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/img_detail.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/style_detail_img.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/style_place_img.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/drawable/style_round_button.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.14190093708165996" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout-w936dp/activity_login.xml" value="0.16325136612021857" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_detail2.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_dosen.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_profile.xml" value="0.209375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_scroll_based.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/bottom_sheet.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/content_scrolling.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/dialog_forget_password.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/dialog_loading.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/dialog_password.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/fragment_account.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/fragment_bookmark.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/fragment_home.xml" value="0.37960339943342775" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/fragment_search.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/image_detail.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/item_dosen.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/item_place.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/item_place_gird.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/item_popular.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/layout_scrolling.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/loading_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/password_dialog.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/pupular_item.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/pupuler_item.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/layout/tourism_item.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/menu/bottom_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/menu/menu_bottom.xml" value="0.209375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/menu/menu_nav.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/menu/menu_profile.xml" value="0.209375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BelajarKotlin/app/src/main/res/mipmap-hdpi/ic_app.xml" value="0.11666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
